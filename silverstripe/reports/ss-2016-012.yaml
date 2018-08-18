@@ -1,0 +1,11 @@
+title: 'SS-2016-012: Missing ACL on reports'
+link: 'https://www.silverstripe.org/download/security-releases/ss-2016-012'
+cve: '~'
+branches:
+    3.1.x:
+        time: '2016-08-02 04:01:44'
+        versions: ['>=3.1.19', '<3.1.20']
+    3.2.x:
+        time: '2016-08-02 04:01:44'
+        versions: ['>=3.2.4', '<3.2.5']
+reference: 'composer://silverstripe/reports'

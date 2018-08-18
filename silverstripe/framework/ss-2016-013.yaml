@@ -1,0 +1,11 @@
+title: 'SS-2016-013: Member.Name isn''t escaped'
+link: 'https://www.silverstripe.org/download/security-releases/ss-2016-013'
+cve: '~'
+branches:
+    3.1.x:
+        time: '2016-08-02 04:04:42'
+        versions: ['>=3.1.19', '<3.1.20']
+    3.2.x:
+        time: '2016-08-02 04:04:42'
+        versions: ['>=3.2.4', '<3.2.5']
+reference: 'composer://silverstripe/framework'

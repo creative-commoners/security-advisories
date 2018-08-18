@@ -1,0 +1,11 @@
+title: 'SS-2016-014: Pre-existing alc_enc cookies log users in if remember me is disabled'
+link: 'https://www.silverstripe.org/download/security-releases/ss-2016-014'
+cve: '~'
+branches:
+    3.1.x:
+        time: '2016-08-02 04:07:36'
+        versions: ['>=3.1.19', '<3.1.20']
+    3.2.x:
+        time: '2016-08-02 04:07:36'
+        versions: ['>=3.2.4', '<3.2.5']
+reference: 'composer://silverstripe/framework'

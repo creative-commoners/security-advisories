@@ -1,0 +1,5 @@
+title: 'SS-2018-016: Unsafe SQL Query Construction (Safe Data Source)'
+link: 'https://www.silverstripe.org/download/security-releases/ss-2018-016'
+cve: '~'
+branches: {  }
+reference: 'composer://silverstripe/subsites'

@@ -1,0 +1,8 @@
+title: 'SS-2018-008: BackURL validation bypass with malformed URLs'
+link: 'https://www.silverstripe.org/download/security-releases/ss-2018-008'
+cve: '~'
+branches:
+    4.0.x:
+        time: '2018-04-24 14:28:56'
+        versions: ['>=4.0.0', '<4.0.4']
+reference: 'composer://silverstripe/framework'

@@ -1,0 +1,11 @@
+title: 'SS-2018-004: XSS Vulnerability via WYSIWYG editor'
+link: 'https://www.silverstripe.org/download/security-releases/ss-2018-004'
+cve: '~'
+branches:
+    1.0.x:
+        time: '2018-04-24 12:26:04'
+        versions: ['>=1.0.3', '<1.0.4']
+    1.1.x:
+        time: '2018-04-24 12:26:04'
+        versions: ['>=1.1.0', '<1.1.1']
+reference: 'composer://silverstripe/admin'

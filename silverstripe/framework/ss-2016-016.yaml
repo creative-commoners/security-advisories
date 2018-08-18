@@ -1,0 +1,17 @@
+title: 'SS-2016-016: XSS In CMSSecurity BackURL'
+link: 'https://www.silverstripe.org/download/security-releases/ss-2016-016'
+cve: '~'
+branches:
+    3.1.x:
+        time: '2016-11-27 22:20:53'
+        versions: ['>=3.1.0', '<3.1.21']
+    3.2.x:
+        time: '2016-11-27 22:20:53'
+        versions: ['>=3.2.0', '<3.2.6']
+    3.3.x:
+        time: '2016-11-27 22:20:53'
+        versions: ['>=3.3.0', '<3.3.4']
+    3.x:
+        time: '2016-11-27 22:20:53'
+        versions: ['>=3.1.0', '<3.5.0']
+reference: 'composer://silverstripe/framework'
